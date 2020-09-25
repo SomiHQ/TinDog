@@ -1,2 +1,1 @@
-# TinDog
-TinDog startup mockup website
+TinDog Starting Files
